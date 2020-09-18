@@ -12,7 +12,7 @@ function Header() {
       <div className="header">
         <div className="header__icons">
           {/* icnos */}
-          <div className="header__icon">
+          <div className="header__icon header__icon--active">
             <HomeIcon />
             <p>Home</p>
           </div>
